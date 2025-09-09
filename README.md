@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/frontend-react-61DAFB?logo=react">
   <img src="https://img.shields.io/badge/backend-flask-black?logo=flask">
   <img src="https://img.shields.io/badge/opencv-AI%20Vision-orange?logo=opencv">
-</p
-
+</p>
 
 ---
 
